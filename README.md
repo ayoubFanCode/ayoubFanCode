@@ -102,7 +102,7 @@ I'm a **Software Engineer** and **DevSecOps Engineer** student passionate about 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubFanCode&show_icons=true&theme=dark)
+![Ayoub's GitHub stats](https://github-readme-stats.shion.dev/api?username=ayoubFanCode&show_icons=true&theme=dark&count_private=true)
 
 ## 💬 Fun Fact
 
